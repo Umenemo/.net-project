@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I graduated with a BSc in Computer Science from University of Toronto, and I am looking for internships and full-time positions in Chicago, IL.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Software/Algorithm design",
+    ".NET",
+    "Java",
+    "Python",
+    "C/C#",
+    "REST API"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am excited to learn new technologies and grow in a new role. This is how I made this website - in order to learn .NET and to expand my skills set"
 }
