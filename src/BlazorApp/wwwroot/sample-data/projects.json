@@ -1,32 +1,32 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Java/MySQL Database App",
+    "description": "Created a Java TUI app for posting and finding rental accommodations (Airbnb used as a template). Created a standalone MySQL server with custom functions, routines and triggers, and Java business logic with JDBC for receiving/processing input and issuing queries to the server",
+    "url": null
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Sports And Games Social Platform",
+    "description": "Developed a web application in an Agile team of 6 using React, Python, and SQLite. I Designed database schemas, developed many of the REST endpoints, and their associated frontend elements",
+    "url": "https://github.com/UTSCCSCC01/finalprojectf22-crunch-time"
   },
   {
     "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "description": "Created from Microsoft's template for a .NET (Blazor) Portfolio Site with GitHub Codespaces",
+    "url": "https://github.com/Umenemo/resume-website"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Terminal Messaging App In C",
+    "description": "Collaborated with a partner to develop a chat application using C. Implemented the client-side app and end-to-end message encryption through a server using RSA",
+    "url": "https://github.com/Umenemo/cscd58-project"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Platformer Game Using MIPS Assembler",
+    "description": "Created a platformer game with a resolution of 64 x 128 using MIPS assembler language. Required extensive knowledge of the MIPS CPU's architecture",
+    "url": "https://github.com/Umenemo/CSCB58_Final"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Android Grocery Ordering App",
+    "description": "Developed the app in a team of 5 using Java in Android Studio. Created the user UI for a storefront, ordering and shopping cart functionalities",
+    "url": "https://github.com/Umenemo/cscb07proj99"
   }
 ]
